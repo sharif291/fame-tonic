@@ -20,26 +20,26 @@ const Hero = () => {
 
         <ul className="font-[figtree] font-medium md:font-semibold text-[16px] mt-[22px] md:mt-[16px] leading-[22px]">
           <li className="mb-[13px] flex items-center">
-            <div>✨</div>{" "}
+            <div>✨</div>
             <div className="ml-[10px]">
               Start growing your influence right away—no waiting required!
             </div>
           </li>
           <li className="mb-[13px] flex items-center">
-            <div>✨</div>{" "}
+            <div>✨</div>
             <div className="ml-[10px]">
               Create viral TikToks and Reels step by step with easy-to-follow
               lessons
             </div>
           </li>
           <li className="mb-[13px] flex items-center">
-            <div>✨</div>{" "}
+            <div>✨</div>
             <div className="ml-[10px]">
               Use a Personal AI Worker to boost your content
             </div>
           </li>
           <li className="mb-[13px] flex items-center">
-            <div>✨</div>{" "}
+            <div>✨</div>
             <div className="ml-[10px]">
               Learn from expert-led courses designed for aspiring influencers
             </div>
@@ -64,7 +64,7 @@ const Hero = () => {
             }}
           >
             <Link href="#" className=" font-bold text-[20px]">
-              GET STARTED{" "}
+              GET STARTED
               <svg
                 width="8"
                 height="14"
@@ -87,7 +87,6 @@ const Hero = () => {
         </div>
 
         <div className="hidden md:block">
-          {" "}
           <p className="mt-[30px] font-medium text-[12px] text-[#ABABAB]">
             By clicking "Get Started", you agree with Terms and Conditions,
             Privacy Policy, Subscription Terms
